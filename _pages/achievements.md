@@ -7,8 +7,8 @@ author_profile: true
 
 # Technical
 - Selected as a Summer Scholar for the 6th Summer School on Artificial Intelligence 2021 organized by Centre for Visual Information Technology (CVIT), International Institute of Information Technology Hyderabad from 18 July - 19 August 2022
--Won 4th place in Project Presentation for project Artificial Photosenthesizer out of 500 students in my institute
--Selected for the Inspire Science camp, organized by SSN college of Engineering, sponsored by the Department of Science and Technology, Government of India. The basic objective of INSPIRE would be tocommunicate the excitements of creative pursuit of science to the youth population of the country and attract talent to the study of science at an early stage and build the required critical human resource pool for strengthening and expanding the Science & Technology system and Research and Development base. The basic aim of INSPIRE is to instill scientific temper to the youth population of our country and to give them a flavor of bliss ingrained in creativity. The camp will provide a forum for intensified, stimulating and brainstorming interaction between the participants and the highly esteemed mentors through lectures, lab experiments and lab visits.
+- Won 4th place in Project Presentation for project Artificial Photosenthesizer out of 500 students in my institute
+- Selected for the Inspire Science camp, organized by SSN college of Engineering, sponsored by the Department of Science and Technology, Government of India. 
 - 2nd prize in PRIDE Find a Bug Contest organized by Wisen IT Solutions.
 - Invited to give guest lecture about Visual Perception with Deep Learning for the Department of Computer
 Science and Engineering in association with EEC-Alumni Students Chapter and CSI Chennai.
@@ -20,8 +20,8 @@ Science and Engineering in association with EEC-Alumni Students Chapter and CSI 
 Board Exam
 
 # Extra-Curricular
--Organizing member of Vulcans– Cultural team of EEC : Organized Swagat, Talentia and Retweet (Cultural Fests)
--Selected as one of the 6 Student Mentors in my department. Responsibilities include mentoring junior students academically and with their career prospects.
+- Organizing member of Vulcans– Cultural team of EEC : Organized Swagat, Talentia and Retweet (Cultural Fests)
+- Selected as one of the 6 Student Mentors in my department. Responsibilities include mentoring junior students academically and with their career prospects.
 Participated and won Verbal Mention in various Model United Nations including CAMBIO MUN, SRM
 Vadapalani MUN, SSNMUN.
 - Participated and won in more than 100 national and state level art competitions.
