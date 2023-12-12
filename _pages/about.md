@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Charlie Max Tharas"
+title: "Dhivya Sreedhar"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,31 +11,22 @@ redirect_from:
 Hi! I hope you're having a good day. This is my website, which has some information about me and my life. Check it out:
 
 # Education
-TL;DR: I'm graduating with my bachelor's degree in CS + Math in 2027.
+
 ## Undergrad
-**Williams College**, Williamstown, MA, 2023-2027 (Bachelor of Arts)
+**Anna University**, Chennai, India, 2018-2022 (Bachelor of Engineering)
 
-Anticipated double major in Computer Science and Mathematics, with a concentration in Cognitive Science. l'm currently participating in student computer science and reseach organizations, and I'm looking to conduct research at Williams on natural language processing. Things are still ramping up, so stay tuned!
-
-## High School
-
-**Hunter College High School**, New York, NY, 2017-2023 (6-year program)
-
-Imagine a liberal arts college, but as a high school. I did a lot of stuff, here's some of it:
-- Was president of Computer Science Consortium, a competitive coding and general CS interest-based club.
-- Volunteered at the writing center.
-- Wrote articles for BITS, the computer science magazine.
-- Worked as a [teaching intern](https://www.charliemax.dev/teaching/high-school) for 9th-grade computer science classes and our school's data science extracurricular.
-- Worked with Hunter Data Analytics for Change on hackathon problems and planning.
-- Took college classes at **Hunter College**, New York, NY, 2022-2023. (CSCI 23200 Relational Databases & PSYC 10000)
-
-Check out awards and competitions on my [LinkedIn](https://linkedin.com/in/charlietharas).
-
+By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I am a passionate individual who thrives to build and apply algorithms to solve real-world industry problems.
   
 
 # Experiences
 Here's a brief overview of some of the coolest stuff I've done. For a less brief overview, check out my [resume](https://charliemax.dev/resume.pdf), the list of [projects](https://charliemax.dev/projects) I've been working on, and my [experiences as a teaching assistant](https://charliemax.dev/teaching).
 ## Work
+Software Developer -Zoho Corporation
+August 2022 – Present  Chennai, India
+Part of the Manage Engine - Log360 Cloud OD Team
+Resolved numerous bugs and optimized code, resulting in a 150% performance improvement in a module.
+Developed a feature serving as a framework for all application modules, demonstrating advanced knowledge of generalization and scalability.
+Contributed to a product serving millions of customers, directly impacting their experience through developing a key feature.
 - Data engineering & bioinformatics intern for [MSKCC MIND](https://www.mskcc.org/research-programs/msk-mind-multi-modal-integration-data) in the summer of 2022. I debugged and documented their Luna platform on Unix machines, built models to identify cell features on slide data, and worked on a .svs viewer and annotator that could integrate into their model training pipeline.
 - I also spend my summers working as a surf instructor at Rockaway Beach 🌊.
 
