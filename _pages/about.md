@@ -50,9 +50,9 @@ Summer Research Intern - [NIT Calicut](http://www.nitc.ac.in/)
 June 2021 – July 2021  India
 Research intern under Prof. Prabu Mohandas, Dept of Computer Science and Engineering:
 
--Worked on finding solutions for the challenging task of Music Instrument Recognition. Developed a model that labels unlabeled audio files so manual annotation can be avoided.
--A Convolutional neural network and K nearest neighbors classifier framework were implemented to identify the musical instrument present in a monophonic audio file and the performance of the two models are compared.
--The model performed well with excellent result of 99.17% accuracy for the Convolutional Neural Network and 97% accuracy for the k-nearest neighbor architecture. Worked on finding solutions for the challenging task of Music Instrument Recognition. Developed a model that labels unlabeled audio files so that manual annotation can be avoided.
+- Worked on finding solutions for the challenging task of Music Instrument Recognition. Developed a model that labels unlabeled audio files so manual annotation can be avoided.
+- A Convolutional neural network and K nearest neighbors classifier framework were implemented to identify the musical instrument present in a monophonic audio file and the performance of the two models are compared.
+- The model performed well with excellent result of 99.17% accuracy for the Convolutional Neural Network and 97% accuracy for the k-nearest neighbor architecture. Worked on finding solutions for the challenging task of Music Instrument Recognition. Developed a model that labels unlabeled audio files so that manual annotation can be avoided.
 
 
 Research Intern - [Indian Institute of Information Technology Design & Manufacturing](https://www.iiitdm.ac.in/)
