@@ -12,11 +12,33 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 
 # Education
 
-## Undergrad
-**Anna University**, Chennai, India, 2018-2022 (Bachelor of Engineering)
 
-By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I am a passionate individual who thrives to build and apply algorithms to solve real-world industry problems.
-  
+**Anna University**, Chennai, India, 2018-2022 
+
+### Bachelor of Engineering - BE, Computer Science
+2018 - 2022
+#### Grade: First Class with Distinction
+
+#### Relevant Coursework: 
+- Object Oriented Programming
+-  Design and analysis of algorithms
+- Linear Algebra and Partial Differential Equations
+- Probability and Random Processes
+- Operating Systems
+- Cloud Computing
+- Soft Computing
+- Database Management Systems
+- Principles of Management
+
+
+#### Activities and societies: 
+- Undergraduate researcher 
+-  Department Coordinator of Vulcans ( Cultural club) 
+- RETWEET (Inter-college Cultural Team) 
+- Department Head of Youth Red Cross 
+- Member of the Department Design Team
+
+
 
 # Experiences
 Here's a brief overview of some of the coolest stuff I've done. For a less brief overview, check out my [resume](https://dhivyasreedhar.github.io/files/resume.pdf)
