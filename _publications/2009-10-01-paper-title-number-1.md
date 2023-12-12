@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Comparison of Convolutional Neural Networks and K-Nearest Neighbors for Music
+Instrument Recognition"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Advances in Speech and Music Technology: Computational Aspects and Applications, Springer
+International Publishing'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-18444-4_9'
+citation: 'Dhivya, S. and Mohandas, P., 2012. Comparison of Convolutional Neural Networks and K-Nearest Neighbors for Music Instrument Recognition. In Advances in Speech and Music Technology: Computational Aspects and Applications (pp. 175-192). Cham: Springer International Publishing.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
