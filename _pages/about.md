@@ -19,7 +19,7 @@ By comprehensive exposure to the underlying concepts and applying them vividly t
   
 
 # Experiences
-Here's a brief overview of some of the coolest stuff I've done. For a less brief overview, check out my [resume](https://dhivyasreedhar.github.io/resume.pdf)
+Here's a brief overview of some of the coolest stuff I've done. For a less brief overview, check out my [resume](https://dhivyasreedhar.github.io/files/resume.pdf)
 ## Corporate
 Full Stack  Developer - [Zoho Corporation](https://www.manageengine.com/cloud-siem/features/cloud-based-log-management.html)
 August 2022 – Present  Chennai, India
