@@ -1,6 +1,6 @@
 ---
 title: "Fake Tweet Detection"
-excerpt: "A tool to detect fake tweets"
+excerpt: "A tool to classify fake tweets on twitter"
 collection: ml
 ---
 

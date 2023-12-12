@@ -1,6 +1,6 @@
 ---
 title: "Spoken Digit Recognition"
-excerpt: "A tool to recognize a spoken digit"
+excerpt: "A tool to recognize a spoken digit from an audio file"
 collection: game
 ---
 

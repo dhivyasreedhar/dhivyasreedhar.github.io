@@ -1,6 +1,6 @@
 ---
 title: "Music Instrument Recognition"
-excerpt: "A tool to recognize a music instrument."
+excerpt: "A tool to recognize a musical instrument from an audio file."
 collection: ml
 ---
 
