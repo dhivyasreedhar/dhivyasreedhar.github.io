@@ -10,6 +10,6 @@ International Publishing'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-18444-4_9'
 citation: 'Dhivya, S. and Mohandas, P., 2012. Comparison of Convolutional Neural Networks and K-Nearest Neighbors for Music Instrument Recognition. In Advances in Speech and Music Technology: Computational Aspects and Applications (pp. 175-192). Cham: Springer International Publishing.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+[Download paper here](https://github.com/dhivyasreedhar/dhivyasreedhar.github.io/blob/master/files/Paper_1.pdf)
