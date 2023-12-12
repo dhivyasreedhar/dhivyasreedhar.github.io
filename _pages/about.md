@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I hope you're having a good day. This is my website, which has some information about me and my life. Check it out:
+Hi! I hope you're having a good day. This is my website, which has some information about me and my life. Check it out!
 
 # Education
 
