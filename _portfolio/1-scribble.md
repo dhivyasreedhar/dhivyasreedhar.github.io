@@ -1,9 +1,9 @@
 ---
-title: "Scribble"
-excerpt: "Aerial handwriting parser."
+title: "Fake Tweet Detection"
+excerpt: "A tool to detect fake tweets"
 collection: ml
 ---
 
-Winner for Trinity High School's Hacktrin VIII (2021) Best Overall award. Tracks finger position using webcam, then parses trace of finger writing in midair into letters using a model trained on EMNIST data. User can blink forcefully to reset tracking and move on to the next letter. A little gimmicky, but it actually works--though the full pipeline isn't yet on GitHub (working on it).
+2 models are trained: A Bidirectional stacked LSTM using pre-trained embedded vectors A Bidirectional stacked LSTM without pre-trained embedded vectors from GLOVE Both models performed well and gave accuracy of about 99%
 
-[See Repo Here.](https://github.com/charlietharas/hacktrin-scribble)
+[See Repo Here.](https://github.com/dhivyasreedhar/FakeTweetDetection)

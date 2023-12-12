@@ -1,9 +1,10 @@
 ---
-title: "Fourier Transform Playground"
-excerpt: "Using FFT algorithm to show frequency/amplitude distribution of wav files in a music-visualizer fashion."
+title: "COVID 19 AI Diagnosis"
+excerpt: "A pre-screening tool to detect COVID 19 using cough recordings"
 collection: data
 ---
+We figured that COVID-19 patients, including the asymptomatic can be identified using only cough recordings. We collected data of the cough recordings through various sources and the cough recordings are transformed with Mel Frequency Cepstral Coefficient and inputted into a Convolutional Neural Network (CNN)
 
-Old project, abandoned, repo not up-to-date. Jupyter notebook performs data analysis on .wav files with special visualizers for music. Compares tracks based on .wav analysis.
+We obtained accuracy of about 98%.
 
-[See Repo Here](https://github.com/charlietharas/tf-fourier/tree/python)
+[See Repo Here](https://github.com/dhivyasreedhar/Covid19CoughDetection)

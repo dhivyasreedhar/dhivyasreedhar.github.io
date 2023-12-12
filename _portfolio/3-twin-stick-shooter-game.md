@@ -1,9 +1,9 @@
 ---
-title: "Basic Twin Stick Shooter"
-excerpt: "Basic twin stick shooter created as extension of CSCI 136 homework."
+title: "Spoken Digit Recognition"
+excerpt: "A tool to recognize a spoken digit"
 collection: game
 ---
 
-Created this basic game one weekend as I was playing around with Java graphics. May expand on it if I get bored throughout the semester (or as a final project for CS136). Game has different enemies, potions with status effects, and weapons.
+Classification Methods for Audio MNIST Dataset Dataset consists of recordings of spoken digits in wav files at 8kHz. The recordings are trimmed so that they have near minimal silence at the beginnings and ends.
 
-[See Repo Here.](https://github.com/charlietharas/twinstickshooter)
+[See Repo Here.](https://github.com/dhivyasreedhar/Spoken_Digit_Recognition)
