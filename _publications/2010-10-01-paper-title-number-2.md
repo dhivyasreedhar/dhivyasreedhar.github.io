@@ -12,4 +12,3 @@ citation:
 
 [Download paper here](https://github.com/dhivyasreedhar/dhivyasreedhar.github.io/blob/master/files/Paper_2.pdf)
 
-Recommended citation:

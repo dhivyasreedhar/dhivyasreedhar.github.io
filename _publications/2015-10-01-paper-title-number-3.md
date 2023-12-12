@@ -2,7 +2,7 @@
 title: "Comparison of Deep Learning Techniques for Face Forgery"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 
 date: 2023-01-01
 venue: 'Journal of Social Network Analysis and Mining'
 paperurl: 'https://github.com/dhivyasreedhar/dhivyasreedhar.github.io/blob/master/files/Paper_3.pdf'
