@@ -13,7 +13,7 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 # Education
 
 
-**Anna University**, Chennai, India, 2018-2022 
+**Anna University**, Chennai, India
 
 ### Bachelor of Engineering - BE, Computer Science
 2018 - 2022
@@ -43,15 +43,14 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 # Experiences
 Download my Resume - [resume](https://dhivyasreedhar.github.io/files/resume.pdf)
 ## Corporate
-Full Stack  Developer - [Zoho Corporation](https://www.manageengine.com/cloud-siem/features/cloud-based-log-management.html)
-August 2022 – Present  Chennai, India
+**Full Stack  Developer - [Zoho Corporation](https://www.manageengine.com/cloud-siem/features/cloud-based-log-management.html)** August 2022 – Present  Chennai, India
 - Part of the Manage Engine - Log360 Cloud OD Team
 Resolved numerous bugs and optimized code, resulting in a 150% performance improvement in a module.
 - Developed a feature serving as a framework for all application modules, demonstrating advanced knowledge of generalization and scalability.
 - Contributed to a product serving millions of customers, directly impacting their experience through developing a key feature.
 
 
-Programmer Analyst Trainee Intern - [Cognizant Technology Solutions](https://www.cognizant.com/us/en/services/ai)
+**Programmer Analyst Trainee Intern - [Cognizant Technology Solutions](https://www.cognizant.com/us/en/services/ai)**
 January 2022 – August 2022  Chennai, India
 - Part of the Artificial Intelligence and Analytics (AIA) - Informatica Cloud Team.
 - Used Informatica software to design data storage systems to provide clients with faster insight into their business.
@@ -59,7 +58,7 @@ January 2022 – August 2022  Chennai, India
 
 ## Research
 
-Undergraduate Researcher - [SRM Easwari Engineering College](https://srmeaswari.ac.in/)
+**Undergraduate Researcher - [SRM Easwari Engineering College](https://srmeaswari.ac.in/)**
 May 2021 – December 2022  Chennai, India
 
 - Research intern under Prof. KPK Devan, Dept of Computer Science and Engineering:
@@ -68,7 +67,7 @@ May 2021 – December 2022  Chennai, India
 - Extracted tweets related to COVID 19 using tweepy and the twitter API
 - Developed an LSTM based model to detect fake tweets using NLP
 
-Summer Research Intern - [NIT Calicut](http://www.nitc.ac.in/)
+**Summer Research Intern - [NIT Calicut](http://www.nitc.ac.in/)**
 June 2021 – July 2021  India
 Research intern under Prof. Prabu Mohandas, Dept of Computer Science and Engineering:
 
@@ -77,7 +76,7 @@ Research intern under Prof. Prabu Mohandas, Dept of Computer Science and Enginee
 - The model performed well with excellent result of 99.17% accuracy for the Convolutional Neural Network and 97% accuracy for the k-nearest neighbor architecture. Worked on finding solutions for the challenging task of Music Instrument Recognition. Developed a model that labels unlabeled audio files so that manual annotation can be avoided.
 
 
-Research Intern - [Indian Institute of Information Technology Design & Manufacturing](https://www.iiitdm.ac.in/)
+**Research Intern - [Indian Institute of Information Technology Design & Manufacturing](https://www.iiitdm.ac.in/)**
 May 2020 – May 2021  India
 
 -Research intern under Dr. Sivaselvan B, Dept of Computer Science and Engineering:
