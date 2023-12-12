@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charlie Max Tharas"
+title                    : "Dhivya Sreedhar"
 title_separator          : "-"
-name                     : &name "Charlie Max Tharas"
+name                     : &name "Dhivya Sreedhar"
 description              : &description "Welcome to my personal site"
-url                      : "https://charliemax.dev" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dhivyasreedhar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "charlietharas/charlietharas.github.io"
+repository               : "dhivyasreedhar/dhivyasreedhar.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Charlie Tharas"
+  name             : "Dhivya Sreedhar"
   avatar           : "profile.png"
-  bio              : "Williams College"
-  location         : "NYC && Williamstown, MA"
+  bio              : "Full Stack Developer"
+  location         : "Chennai, India"
   employer         :
   pubmed           :
-  googlescholar    :
-  email            : "cmt8@williams.edu"
-  researchgate     :
+  googlescholar    : "https://scholar.google.com/citations?user=01J6N6sAAAAJ&hl=en"
+  email            : "dhivyasreedhar@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "charlietharas"
+  github           : "dhivyasreedhar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "charlietharas"
+  linkedin         : ""
   orcid            :
   pinterest        :
   soundcloud       :
