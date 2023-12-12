@@ -41,7 +41,7 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 
 
 # Experiences
-Here's a brief overview of some of the coolest stuff I've done. For a less brief overview, check out my [resume](https://dhivyasreedhar.github.io/files/resume.pdf)
+Download my Resume - [resume](https://dhivyasreedhar.github.io/files/resume.pdf)
 ## Corporate
 Full Stack  Developer - [Zoho Corporation](https://www.manageengine.com/cloud-siem/features/cloud-based-log-management.html)
 August 2022 – Present  Chennai, India
