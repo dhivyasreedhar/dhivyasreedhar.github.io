@@ -1,9 +1,9 @@
 ---
-title: "Face Generation Playground"
-excerpt: "TensorFlow DCGAN Face Generator Model."
+title: "OCR"
+excerpt: "Optical Character Recognition"
 collection: ml
 ---
 
-Overachieving final project for my 9th grade computer science class (which was on introductory Python). Generates faces based on dataset. Based on pre-existing model which I tweaked quite a bit. Mostly just an educational experience for me to learn about DCGANs.
+OCR = Optical Character Recognition. In other words, OCR systems transform a two-dimensional image of text, that could contain machine printed or handwritten text from its image representation into machine-readable text.
 
-[See Repo Here.](https://github.com/charlietharas/tf-facebot)
+[See Repo Here.](https://github.com/dhivyasreedhar/OCR)
