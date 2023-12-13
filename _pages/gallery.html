@@ -14,6 +14,7 @@ author_profile: true
     <title>Image Gallery</title>
     <style>
         /* Optional: Add some basic styling to the gallery */
+         
         .image-gallery {
             display: flex;
             flex-wrap: wrap;
@@ -24,18 +25,50 @@ author_profile: true
             max-width: 100%;
             height: auto;
         }
+
+        /* Fluid image container */
+        .image-container {
+            flex: 1 1 auto;
+            max-width: calc(33.333% - 10px); /* Adjust based on the number of images and gap */
+        }
     </style>
 </head>
 <body>
 
 <div class="image-gallery">
+  <div class="image-container">
     <img src="{{ base_path }}//images/one.png" alt="Image 1">
+    </div>  
+    <div class="image-container">
     <img src="{{ base_path }}//images/nine.png" alt="Image 2">
+    </div>  
+   <div class="image-container">
     <img src="{{ base_path }}//images/seven.png" alt="Image 3">
+    </div>  
+    <div class="image-container">
     <img src="{{ base_path }}//images/six.png" alt="Image 4">
+    </div>  
+    <div class="image-container">
     <img src="{{ base_path }}//images/ten.png" alt="Image 5">
+    </div>  
+    <div class="image-container">
     <img src="{{ base_path }}//images/three.png" alt="Image 6">
+    </div>  
+    <div class="image-container">
     <img src="{{ base_path }}//images/two.png" alt="Image 7">
+    </div>  
+    <div class="image-container">
+        <img src="{{ base_path }}//images/four.png" alt="Image 8">
+    </div>
+    <div class="image-container">
+        <img src="{{ base_path }}//images/five.png" alt="Image 9">
+    </div>
+    <div class="image-container">
+        <img src="{{ base_path }}//images/eight.png" alt="Image 10">
+    </div>
+    <div class="image-container">
+        <img src="{{ base_path }}//images/ele.png" alt="Image 11">
+    </div>
 </div>
 
 </body>
