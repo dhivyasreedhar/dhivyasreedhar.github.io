@@ -1,0 +1,43 @@
+---
+permalink: /gallery/
+title: "Art Portfolio"
+author_profile: true
+---
+
+
+{% include base_path %}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <style>
+        /* Optional: Add some basic styling to the gallery */
+        .image-gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .image-gallery img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="image-gallery">
+    <img src="{{ base_path }}//images/one.png" alt="Image 1">
+    <img src="{{ base_path }}//images/nine.png" alt="Image 2">
+    <img src="{{ base_path }}//images/seven.png" alt="Image 3">
+    <img src="{{ base_path }}//images/six.png" alt="Image 4">
+    <img src="{{ base_path }}//images/ten.png" alt="Image 5">
+    <img src="{{ base_path }}//images/three.png" alt="Image 6">
+    <img src="{{ base_path }}//images/two.png" alt="Image 7">
+</div>
+
+</body>
+</html>
+
