@@ -12,6 +12,20 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 
 # Education
 
+**Carnegie Mellon University**, Pittsburgh, PA, United States
+### Master of Science - MS, Information Systems Management
+2024 - December 2025
+#### Grade: 4.0/4.0
+#### Relevant Coursework: 
+- Object Oriented Programming with Java
+- Database Management
+- Statistics for IT Managers
+- Economic Analysis
+- Organizational Implementation and Design
+- Financial Accounting and Analysis
+-  Professional Speaking
+
+
 
 **Anna University**, Chennai, India
 
