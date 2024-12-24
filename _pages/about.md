@@ -17,8 +17,14 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 2024 - December 2025
 #### Grade: 4.0/4.0
 #### Relevant Coursework: 
+- Intro to Deep Learning
+- Distributed Systems for Information Systems Management
 - Object Oriented Programming with Java
 - Database Management
+- Corporate Startup Lab
+- Digital Transformation
+- Decision Making Under Uncertainty
+- Managing Disruptive Technologies
 - Statistics for IT Managers
 - Economic Analysis
 - Organizational Implementation and Design
