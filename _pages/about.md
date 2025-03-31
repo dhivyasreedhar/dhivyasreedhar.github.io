@@ -13,7 +13,7 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 # Education
 
 **Carnegie Mellon University**, Pittsburgh, PA, United States
-### Master of Science - MS, Information Systems Management
+### Master of Science - MS, Information Systems (Machine Learning specialization)
 2024 - December 2025
 #### Grade: 4.0/4.0
 #### Relevant Coursework: 
@@ -73,14 +73,15 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 # Experiences
 Download my Resume - [resume](https://dhivyasreedhar.github.io/files/resume.pdf)
 
-**Graduate Research Assistant ( Inference strategies & LLM Reasoning)** - January 2025 — Present
-Carnegie Mellon University Pittsburgh, USA
+**Graduate Research Assistant ( Inference strategies & LLM Reasoning) - Carnegie Mellon University** - January 2025 — Present
+ Pittsburgh, USA
  - Conducted research in Vector Database Integration, Semantic Knowledge Graphs, Chain-of-Thought Decomposition, and Multi-hop
 Reasoning architectures to enhance structured data retrieval & self-supervised learning in foundation models
 - Engineered advanced prompt scaffolding techniques with parameter-efficient fine-tuning (PEFT) & implemented reasoning trace evaluation frameworks incorporating retrieval-augmented prompting, contrastive learning, optimizing emergent reasoning & causal inference
 capabilities in multimodal LLMs while enhancing interpretability and cognitive alignment
 - Developed novel metrics integrating latent space analysis & reasoning path extraction for measuring coherence & factuality in collaborative problem-solving scenarios, resulting in 28% improvement in task completion efficiency and 45% reduction in hallucination rates
-**Machine Learning Engineer Intern -[Bank of New York]** - January 2025 — Present
+
+**Machine Learning Engineer Intern - [Bank of New York](https://www.bny.com/corporate/global/en/about-us/technology-innovation/artificial-intelligence.html)** - January 2025 — Present
  Pittsburgh, USA
 - Pioneered human-in-the-loop (HITL) reinforcement learning from human feedback (RLHF) for optimizing conversational flows, implementing automated prompt engineering and red-teaming capabilities that reduced hallucination rates by 43% while ensuring responsible
 AI deployment
