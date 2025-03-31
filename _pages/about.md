@@ -17,7 +17,12 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 2024 - December 2025
 #### Grade: 4.0/4.0
 #### Relevant Coursework: 
-- Intro to Deep Learning
+- Deep Learning (PhD)
+- Advanced Natural Language Processing
+- Statistics
+-  Machine Learning in Production
+- Unstructured Data Analytics
+- Data Science and Big Dara
 - Distributed Systems for Information Systems Management
 - Object Oriented Programming with Java
 - Database Management
@@ -25,11 +30,16 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 - Digital Transformation
 - Decision Making Under Uncertainty
 - Managing Disruptive Technologies
-- Statistics for IT Managers
 - Economic Analysis
 - Organizational Implementation and Design
-- Financial Accounting and Analysis
--  Professional Speaking
+
+#### Activities and societies: 
+-  Graduate Research Assistant
+-  Lead for Women in Business (Tepper School of Business)
+- Society of Women Engineers
+-  Girls who Code
+
+
 
 
 
@@ -62,7 +72,24 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 
 # Experiences
 Download my Resume - [resume](https://dhivyasreedhar.github.io/files/resume.pdf)
-## Corporate
+
+**Graduate Research Assistant ( Inference strategies & LLM Reasoning)** - January 2025 — Present
+Carnegie Mellon University Pittsburgh, USA
+ - Conducted research in Vector Database Integration, Semantic Knowledge Graphs, Chain-of-Thought Decomposition, and Multi-hop
+Reasoning architectures to enhance structured data retrieval & self-supervised learning in foundation models
+- Engineered advanced prompt scaffolding techniques with parameter-efficient fine-tuning (PEFT) & implemented reasoning trace evaluation frameworks incorporating retrieval-augmented prompting, contrastive learning, optimizing emergent reasoning & causal inference
+capabilities in multimodal LLMs while enhancing interpretability and cognitive alignment
+- Developed novel metrics integrating latent space analysis & reasoning path extraction for measuring coherence & factuality in collaborative problem-solving scenarios, resulting in 28% improvement in task completion efficiency and 45% reduction in hallucination rates
+**Machine Learning Engineer Intern -[Bank of New York]** - January 2025 — Present
+ Pittsburgh, USA
+- Pioneered human-in-the-loop (HITL) reinforcement learning from human feedback (RLHF) for optimizing conversational flows, implementing automated prompt engineering and red-teaming capabilities that reduced hallucination rates by 43% while ensuring responsible
+AI deployment
+- Deployed knowledge distillation and parameter-efficient transfer learning techniques for scalable, personalized, multi-channel deployment across 9 core AI capabilities: Content Generation, Anomaly Detection, Decision Reapplication, Code Modernization, Virtual
+Assistance, Data Migration, Scenario Creation, Prediction/Classification, and Unstructured Data Q&A
+- Accelerated enterprise-wide AI adoption by developing specialized upskilling for transformer architecture expertise (GPT, BERT, T5),
+zero-shot learning techniques, and semantic kernel integration, resulting in comprehensive deployment of vector database integration
+capabilities and $4.2M in annual cost savings
+
 **Full Stack  Developer - [Zoho Corporation](https://www.manageengine.com/cloud-siem/features/cloud-based-log-management.html)** - August 2022 – Present  Chennai, India
 - Part of the Manage Engine - Log360 Cloud OD Team
 Resolved numerous bugs and optimized code, resulting in a 150% performance improvement in a module.
@@ -75,7 +102,7 @@ Resolved numerous bugs and optimized code, resulting in a 150% performance impro
 - Used Informatica software to design data storage systems to provide clients with faster insight into their business.
 - Analyzed and tested Data warehousing techniques, ETL tools. Created various mappings using Infomatica Powercenter,IICS.
 
-## Research
+
 
 **Undergraduate Researcher - [SRM Easwari Engineering College](https://srmeaswari.ac.in/)** - May 2021 – December 2022  Chennai, India
 
