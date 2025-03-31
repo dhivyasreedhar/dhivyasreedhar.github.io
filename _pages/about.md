@@ -22,7 +22,7 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 - Statistics
 -  Machine Learning in Production
 - Unstructured Data Analytics
-- Data Science and Big Dara
+- Data Science and Big Data
 - Distributed Systems for Information Systems Management
 - Object Oriented Programming with Java
 - Database Management
@@ -73,16 +73,14 @@ Hi! I hope you're having a good day. This is my website, which has some informat
 # Experiences
 Download my Resume - [resume](https://dhivyasreedhar.github.io/files/resume.pdf)
 
-**Graduate Research Assistant ( Inference strategies & LLM Reasoning) - Carnegie Mellon University** - January 2025 — Present
- Pittsburgh, USA
+**Graduate Research Assistant ( Inference strategies & LLM Reasoning) - Carnegie Mellon University** - January 2025 — Present  Pittsburgh, USA
  - Conducted research in Vector Database Integration, Semantic Knowledge Graphs, Chain-of-Thought Decomposition, and Multi-hop
 Reasoning architectures to enhance structured data retrieval & self-supervised learning in foundation models
 - Engineered advanced prompt scaffolding techniques with parameter-efficient fine-tuning (PEFT) & implemented reasoning trace evaluation frameworks incorporating retrieval-augmented prompting, contrastive learning, optimizing emergent reasoning & causal inference
 capabilities in multimodal LLMs while enhancing interpretability and cognitive alignment
 - Developed novel metrics integrating latent space analysis & reasoning path extraction for measuring coherence & factuality in collaborative problem-solving scenarios, resulting in 28% improvement in task completion efficiency and 45% reduction in hallucination rates
 
-**Machine Learning Engineer Intern - [Bank of New York](https://www.bny.com/corporate/global/en/about-us/technology-innovation/artificial-intelligence.html)** - January 2025 — Present
- Pittsburgh, USA
+**Machine Learning Engineer Intern - [Bank of New York](https://www.bny.com/corporate/global/en/about-us/technology-innovation/artificial-intelligence.html)** - January 2025 — Present  Pittsburgh, USA
 - Pioneered human-in-the-loop (HITL) reinforcement learning from human feedback (RLHF) for optimizing conversational flows, implementing automated prompt engineering and red-teaming capabilities that reduced hallucination rates by 43% while ensuring responsible
 AI deployment
 - Deployed knowledge distillation and parameter-efficient transfer learning techniques for scalable, personalized, multi-channel deployment across 9 core AI capabilities: Content Generation, Anomaly Detection, Decision Reapplication, Code Modernization, Virtual
